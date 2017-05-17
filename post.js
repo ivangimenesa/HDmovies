@@ -1,0 +1,10 @@
+$(document).ready(function(){
+    $('#maismenos1').click(function(){
+        $('#essadiv1').slideToggle('slow');
+    });
+});
+$(document).ready(function(){
+    $('#maismenos2').click(function(){
+        $('#essadiv2').slideToggle('slow');
+    });
+});
