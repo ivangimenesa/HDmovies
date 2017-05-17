@@ -24,6 +24,7 @@
 .menu a:hover, .offcanvas a:focus{ color: white; }
 
   .button-menu{ cursor:pointer; font-size:40px; color:white; box-shadow:0px 2px 5px black; background:#272727; border-radius:5px; padding:0px 10px; position:fixed; margin: 20px 10px;}
+.button-menu:hover{ background:#0260B2; }
 
 .menu .closemenu {
     position: absolute;
